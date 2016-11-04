@@ -1,0 +1,3 @@
+ADD $myint,100,20.7,300,$myint1
+MUL $myint,100,20,20.7,300,$myint1
+SET_STR_CHAR $mystr1,21,’\n’
